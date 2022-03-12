@@ -1,2 +1,2 @@
-# tcpping
-simple tool to check connectivity of TCP/IP sockets
+# TcpPing
+simple tool to check connectivity of TCP/IP sockets.
