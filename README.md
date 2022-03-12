@@ -3,7 +3,7 @@ Simple tool to check connectivity of TCP/IP sockets.
 
 ![alt text](https://raw.githubusercontent.com/proxytype/tcpping/main/tcpping.gif)
 
-Use sockets to check connectivity of remote server on specific port, helpful to detect running services.
+check connectivity of remote server on specific port using sockets, very useful to detect running services.
 
 ## WIN32 Objects And Structures
 [- WSADATA](https://docs.microsoft.com/en-us/windows/win32/api/winsock/ns-winsock-wsadata)<br>
